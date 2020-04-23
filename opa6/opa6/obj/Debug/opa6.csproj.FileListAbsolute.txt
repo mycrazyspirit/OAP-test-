@@ -1,0 +1,7 @@
+D:\4 КУРС\oap\OAP Test 6 7\opa6\opa6\bin\Debug\opa6.exe.config
+D:\4 КУРС\oap\OAP Test 6 7\opa6\opa6\bin\Debug\opa6.exe
+D:\4 КУРС\oap\OAP Test 6 7\opa6\opa6\bin\Debug\opa6.pdb
+D:\4 КУРС\oap\OAP Test 6 7\opa6\opa6\obj\Debug\opa6.csprojAssemblyReference.cache
+D:\4 КУРС\oap\OAP Test 6 7\opa6\opa6\obj\Debug\opa6.csproj.CoreCompileInputs.cache
+D:\4 КУРС\oap\OAP Test 6 7\opa6\opa6\obj\Debug\opa6.exe
+D:\4 КУРС\oap\OAP Test 6 7\opa6\opa6\obj\Debug\opa6.pdb
